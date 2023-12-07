@@ -1,0 +1,16 @@
+F:\GUI\BTVN1\BTVN1\bin\Debug\net8.0-windows\BTVN1.exe
+F:\GUI\BTVN1\BTVN1\bin\Debug\net8.0-windows\BTVN1.deps.json
+F:\GUI\BTVN1\BTVN1\bin\Debug\net8.0-windows\BTVN1.runtimeconfig.json
+F:\GUI\BTVN1\BTVN1\bin\Debug\net8.0-windows\BTVN1.dll
+F:\GUI\BTVN1\BTVN1\bin\Debug\net8.0-windows\BTVN1.pdb
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.Form1.resources
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.csproj.GenerateResource.cache
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.AssemblyInfoInputs.cache
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.AssemblyInfo.cs
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.csproj.CoreCompileInputs.cache
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.dll
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\refint\BTVN1.dll
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.pdb
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\BTVN1.genruntimeconfig.cache
+F:\GUI\BTVN1\BTVN1\obj\Debug\net8.0-windows\ref\BTVN1.dll
